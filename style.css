@@ -5,17 +5,21 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+/*
 html {
   background: url(rock-paper-scissors-neon-background.jpeg); no-repeat, center, center, fixed;
   background-size: 200px;
   background-position: center;
+*/
 
-/* body {
- background-color: #24272E;
+ body {
+  background-color: #24272E;
   background-position: center;
   background-repeat: no-repeat; 
-} */
+  background: url(rock-paper-scissors-neon-background.jpeg); no-repeat, center, center, fixed;
+  background-size: 200px;
+  background-position: center;
+} 
 
 header {
   background: coral;
