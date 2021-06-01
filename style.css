@@ -7,7 +7,7 @@
 }
 
 html {
-  background: url(/rock-paper-scissors-neon-background.jpeg); no-repeat, center, center, fixed;
+  background: url(rock-paper-scissors-neon-background.jpeg); no-repeat, center, center, fixed;
   background-size: 200px;
   background-position: center;
 
