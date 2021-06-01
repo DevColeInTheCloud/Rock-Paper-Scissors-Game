@@ -6,11 +6,16 @@
   box-sizing: border-box;
 }
 
-body {
+html {
+  background: url(Images/rock-paper-scissors-neon-background.jpeg); no-repeat, center, center, fixed;
+  background-size: 200px;
+  background-position: center;
+
+/* body {
  background-color: #24272E;
   background-position: center;
   background-repeat: no-repeat; 
-}
+} */
 
 header {
   background: coral;
